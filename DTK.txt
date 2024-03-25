@@ -1,0 +1,8 @@
+Week of 2024-03-25:
+- Created GitHub organization
+- Created 'Progress' repository
+
+Week of 2024-03-18:
+- Started working on 'BDG Offseason Organization Outline'
+- Started working on 'BDG Academic Report Template'
+- Started working on 'BDG Academic Presentation Template'
