@@ -1,6 +1,15 @@
+Week of 2024-04-01: (5hrs)
+- Started working on the outline of 'Core'(01: 5hrs)
+  - Defined principles that align with the BDG's outlook
+  - Major system design decisions 
+    - Which DBMS to use
+    - Which programming architecture to use
+
 Week of 2024-03-25:
 - Created GitHub organization
 - Created 'Progress' repository
+- Created 'Core' repository
+- Created 'Research' repository
 
 Week of 2024-03-18:
 - Started working on 'BDG Offseason Organization Outline'
