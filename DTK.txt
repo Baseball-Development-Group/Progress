@@ -1,6 +1,11 @@
-=== April ===
+=== May ===
 
-Week of 2024-04-29:
+Week of 2024-05-06: 
+- Started designing athlete training log Excel workbooks (06: 2hrs)
+
+Week of 2024-04-29: 
+
+=== April ===
 
 Week of 2024-04-22:
 
@@ -9,7 +14,7 @@ Week of 2024-04-15:
 Week of 2024-04-08:
 
 Week of 2024-04-01: (5hrs)
-- Started working on the outline of 'Core'(01: 5hrs)
+- Started working on the outline of 'Core' (01: 5hrs)
   - Defined principles that align with the BDG's outlook
   - Major system design decisions 
     - Which DBMS to use
