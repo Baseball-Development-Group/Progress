@@ -1,11 +1,12 @@
 === May ===
 
-Week of 2024-05-06: 
-- Started designing athlete training log Excel workbooks (06: 2hrs)
+Week of 2024-05-06: (6hrs)
+- BDG Cleanup & Meeting (06: 6hrs)
 
-Week of 2024-04-29: 
+Week of 2024-04-29: (3hrs)
+- Started designing athlete training log Excel workbooks (05: 3hrs)
 
-=== April ===
+=== April === 
 
 Week of 2024-04-22:
 
