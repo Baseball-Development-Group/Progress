@@ -1,7 +1,9 @@
 === May ===
 
-Week of 2024-05-06: (6hrs)
+Week of 2024-05-06: (7hrs)
 - BDG Cleanup & Meeting (06: 6hrs)
+- Major system design decisions (12: 1hrs)
+  - Which SQL to use & general architecture
 
 Week of 2024-04-29: (3hrs)
 - Started designing athlete training log Excel workbooks (05: 3hrs)
