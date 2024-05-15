@@ -1,7 +1,7 @@
 === May ===
 
-Week of 2024-05-13: (3hrs)
-- Setup database, sync with GitHub (13: 3hrs)
+Week of 2024-05-13: (6hrs)
+- Setup database, sync with GitHub (13: 3hrs, 14: 3hrs)
 
 Week of 2024-05-06: (7hrs)
 - BDG Cleanup & Meeting (06: 6hrs)
