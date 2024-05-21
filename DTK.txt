@@ -1,5 +1,8 @@
 === May ===
 
+Week of 2024-05-20: (12hrs)
+- LLM(GPT) integration test (20: 8hrs, 21: 4hrs) 
+
 Week of 2024-05-13: (6hrs)
 - Setup database, sync with GitHub (13: 3hrs, 14: 3hrs)
 
