@@ -1,5 +1,7 @@
 === May ===
 
+Week of 2024-05-27:
+
 Week of 2024-05-20: (12hrs)
 - LLM(GPT) integration test (20: 8hrs, 21: 4hrs) 
 
