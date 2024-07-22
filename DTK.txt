@@ -1,5 +1,22 @@
 === May ===
 
+Week of 2024-07-22:
+
+Week of 2024-07-15: (14hrs)
+- Database outline (15: 1hr, 21: 1hr)
+- Database ERD design (15: 1hr, 17: 3hr, 20: 3hr, 21: 5hr)
+
+Week of 2024-07-08: (2hrs)
+- Database outline (11: 1hr,  12: 1hr)
+
+Week of 2024-07-01:
+
+=== June ===
+
+(Time allocated toward studies)
+
+=== May ===
+
 Week of 2024-05-27:
 
 Week of 2024-05-20: (12hrs)
