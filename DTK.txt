@@ -1,11 +1,13 @@
 === May ===
 
 Week of 2024-07-22: (13hrs)
-- Database ERD design (22: 4hr, 23: 9hr)
+- Database Entity-Relationship Diagram design (22: 4hr, 23: 9hr, 24: 3hr)
+  - (23) Completed ERD except BaseballLogs
+  - (24) Completed ERD ExerciseDB
 
 Week of 2024-07-15: (14hrs)
 - Database outline (15: 1hr, 21: 1hr)
-- Database ERD design (15: 1hr, 17: 3hr, 20: 3hr, 21: 5hr)
+- Database  Entity-Relationship Diagram design (15: 1hr, 17: 3hr, 20: 3hr, 21: 5hr)
 
 Week of 2024-07-08: (2hrs)
 - Database outline (11: 1hr,  12: 1hr)
