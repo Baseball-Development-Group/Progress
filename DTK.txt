@@ -1,9 +1,11 @@
 === May ===
 
-Week of 2024-07-22: (13hrs)
-- Database Entity-Relationship Diagram design (22: 4hr, 23: 9hr, 24: 3hr)
+Week of 2024-07-22: (16hrs)
+- Database Entity-Relationship Diagram design (22: 4hr, 23: 5hr, 24: 3hr)
   - (23) Completed ERD except BaseballLogs
   - (24) Completed ERD ExerciseDB
+- Assessment design (23: 4hr)
+  - (23) Braverman test
 
 Week of 2024-07-15: (14hrs)
 - Database outline (15: 1hr, 21: 1hr)
