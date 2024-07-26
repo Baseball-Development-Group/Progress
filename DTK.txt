@@ -1,11 +1,12 @@
 === May ===
 
-Week of 2024-07-22: (16hrs)
+Week of 2024-07-22: (26hrs)
 - Database Entity-Relationship Diagram design (22: 4hr, 23: 5hr, 24: 3hr)
   - (23) Completed ERD except BaseballLogs
   - (24) Completed ERD ExerciseDB
-- Assessment design (23: 4hr)
+- Assessment design (23: 4hr, 25: 10hr)
   - (23) Braverman test
+  - (25) Designed new Pitching biomechanics report
 
 Week of 2024-07-15: (14hrs)
 - Database outline (15: 1hr, 21: 1hr)
