@@ -1,4 +1,4 @@
-=== May ===
+=== July ===
 
 Week of 2024-07-22: (26hrs)
 - Database Entity-Relationship Diagram design (22: 4hr, 23: 5hr, 24: 3hr)
