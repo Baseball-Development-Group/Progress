@@ -1,3 +1,8 @@
+=== August ===
+
+Week of 2024-07-29 (2hrs)
+- Database Entity-Relationship Diagram design (30: 2hr)
+
 === July ===
 
 Week of 2024-07-22: (26hrs)
