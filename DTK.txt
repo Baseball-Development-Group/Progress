@@ -1,10 +1,11 @@
 === August ===
 
 Week of 2024-07-29 (11hrs)
-- Database Entity-Relationship Diagram design (30: 2hr)
-- Assessment design (31: 7hr)
+- Database Entity-Relationship Diagram design (30: 2hr, 31: 1hr)
+- Assessment design (31: 5hr)
   - (31) Pitching biomechanics report V2 cleanup
 - Meeting (2hrs)
+- Google Drive organization (1hr)
 
 === July ===
 
