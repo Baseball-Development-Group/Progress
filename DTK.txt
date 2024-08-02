@@ -1,7 +1,7 @@
 === August ===
 
-Week of 2024-07-29 (16hrs + 3hrs)
-- Database Entity-Relationship Diagram design (30: 2hr, 31: 1hr, 01: 5hr)
+Week of 2024-07-29 (18hrs + 3hrs)
+- Database Entity-Relationship Diagram design (30: 2hr, 31: 3hr, 01: 5hr)
   - (01) Created ExerciseDB
 - Assessment design (31: 5hr, 01: 3hr)
   - (31, 01) Pitching biomechanics report V2 cleanup
