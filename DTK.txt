@@ -1,6 +1,8 @@
 === August ===
 
-Week of 2024-08-05 (10hr + 1hr)
+Week of 2024-08-05 (20hr + 1hr)
+- Database design (07: 10hr)
+  - (07) ExerciseDB
 - Assessment design (05: 3hr, 06: 7hr)
   - (05, 06) Assessment documentation
 - Meeting (06: 1hr)
