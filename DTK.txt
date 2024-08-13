@@ -1,11 +1,16 @@
 === August ===
 
-Week of 2024-08-05 (20hr + 1hr)
+Week of 2024-08-12 (5hr)
+- Assessment design (12: 5hr)
+  - (12) Assessment workbook physiology section
+
+Week of 2024-08-05 (30hr + 2hr)
 - Database design (07: 10hr)
   - (07) ExerciseDB
-- Assessment design (05: 3hr, 06: 7hr)
+- Assessment design (05: 3hr, 06: 7hr, 08: 5hr, 09: 5hr)
   - (05, 06) Assessment documentation
-- Meeting (06: 1hr)
+  - (08, 09) Assessment workbook
+- Meeting (06: 1hr, 09: 1hr)
 
 Week of 2024-07-29 (22hr + 3hr)
 - Database Entity-Relationship Diagram design (30: 2hr, 31: 3hr, 01: 5hr, 04: 4hrs)
