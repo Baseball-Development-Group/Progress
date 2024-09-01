@@ -1,8 +1,19 @@
+=== September ===
+
+Week of 2024-09-02
+
 === August ===
 
-Week of 2024-08-12 (5hr)
-- Assessment design (12: 5hr)
-  - (12) Assessment workbook physiology section
+Week of 2024-08-26
+
+Week of 2024-08-19
+
+Week of 2024-08-12 (18 + 3hr)
+- Assessment design (12: 5hr, 13: 5hr)
+  - (12, 13) Assessment workbook physiology section
+- Program workbook design (14: 4hr, 15: 4hr)
+  - (14, 15) Training program marco/micro outline
+- Meeting (13: 3hr) 
 
 Week of 2024-08-05 (30hr + 2hr)
 - Database design (07: 10hr)
