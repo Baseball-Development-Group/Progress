@@ -1,9 +1,9 @@
 === September ===
 
 Week of 2024-09-30 (3hr)
-- Assessment design (30: 3hr)
+- Assessment design (30: 5hr, 31: 3hr)
   - (30) Assessment documentation wrap-up
-  - (30) Assessment workbook
+  - (30, 31) Assessment workbook
   - (30) HP general intake form
 
 Week of 2024-09-23 (9hr)
