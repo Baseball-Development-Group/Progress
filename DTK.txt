@@ -1,10 +1,11 @@
 === September ===
 
-Week of 2024-09-30 (17hr)
-- Assessment design (30: 5hr, 31: 3hr, 1: 1hr, 2: 3hr, 3: 5hr)
+Week of 2024-09-30 (22hr)
+- Assessment design (30: 5hr, 31: 3hr, 1: 1hr, 2: 3hr, 3: 6hr, 4: 3hr)
   - (30) Assessment documentation wrap-up
   - (30, 31, 1, 2, 3) Assessment workbook wrap-up
   - (30) HP general intake form
+  - (3, 4) Hitting biomechanics report
   - (2) Pitching biomechanics report final update
 - BDG Progams automation (2: 2hr)
   - (3) Copy month sheet to workbooks 
