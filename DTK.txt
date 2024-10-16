@@ -1,5 +1,10 @@
 === October ===
 
+Week of 2024-10-14 (2hr)
+- Assessment design (16: 2hr)
+  - (16) Added automation
+  - (16) Workbook debugging
+
 Week of 2024-10-07 (1 + 5hr)
 - Assessment design (8: 1hr) 
   - (8) Hitting biomechanics report
