@@ -1,10 +1,16 @@
+=== November ===
+
+Week of 2024-11-04 (6hr)
+- Stuff Model design (04: 6hr)
+  - (04) Pitch-by-Pitch Arm angle estimator
+
 === October ===
 
 Week of 2024-10-28 (14hr)
 - Assessment design (29: 2hr, 30: 2hr, 01: 5hr)
   - (29, 30, 01) 
 - BDG Progams automation (31: 5hr)
-  - (31) Create workbook for every Stingers athlete & auto copy OCTOBER program depending on Novice/Advanced
+  - (31) Automatically create a workbook for every Stingers athlete & auto copy OCTOBER program depending on Novice/Advanced
 
 Week of 2024-10-21
 
