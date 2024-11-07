@@ -11,7 +11,8 @@ Week of 2024-11-04 (6hr)
 
 Week of 2024-10-28 (14 + 1.5hr)
 - Assessment design (29: 2hr, 30: 2hr, 01: 5hr)
-  - (29, 30, 01) 
+  - (29, 30) Final edits
+  - (01) Automatically create athlete files upon filling out HP Infakw Form
 - BDG Progams automation (31: 5hr)
   - (31) Automatically create a workbook for every Stingers athlete & auto copy OCTOBER program depending on Novice/Advanced
 - Meeting (31: 1.5hr)
