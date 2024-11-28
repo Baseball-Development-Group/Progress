@@ -1,6 +1,17 @@
 === November ===
 
-Week of 2024-11-04 (6hr)
+Week of 2024-11-25 (3 + 1hr)
+- Stuff Model design (27: 2hr)
+  - (27) Expected Run Value model
+- Assessment design (28: 1hr)
+  - (28) Minor updates
+- Meeting (28: 1hr)
+
+Week of 2024-11-18
+
+Week of 2024-11-11
+
+Week of 2024-11-04 (29hr)
 - Stuff Model design (04: 6hr, 05: 8hr, 06: 10hr, 07: 5hr)
   - (04) Pitch-by-Pitch Arm angle estimator
   - (05, 06, 07) Pitch-by-Pitch Gyro angle estimator
