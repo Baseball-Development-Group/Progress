@@ -3,7 +3,8 @@
 Week of 2024-03-03
 - Social media post (04: 2hr)
   - (04) Linkedin post writeup
-- 
+- Assessment v2.1 design (05: 5hr)
+  - (05) Dropdown menus, additional metrics, error handling
 
 === February ===
 
